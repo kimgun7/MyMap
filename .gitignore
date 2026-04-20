@@ -1,0 +1,7 @@
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 편집기
+.vscode/
+*.swp
